@@ -19,12 +19,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0063-unique-paths-ii) |
 ## Matrix
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0063-unique-paths-ii) |
 ## Simulation
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0059-spiral-matrix-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
