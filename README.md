@@ -15,4 +15,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0089-gray-code) |
+## Array
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0059-spiral-matrix-ii) |
+## Matrix
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0059-spiral-matrix-ii) |
+## Simulation
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
