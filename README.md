@@ -63,4 +63,5 @@ A collection of LeetCode questions to ace the coding interview!
 | [0608-tree-node](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0608-tree-node) |
 | [0610-triangle-judgement](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0619-biggest-single-number) |
+| [0620-not-boring-movies](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
