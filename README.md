@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0096-unique-binary-search-trees) |
 ## Backtracking
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0063-unique-paths-ii) |
+| [0096-unique-binary-search-trees](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0096-unique-binary-search-trees) |
 ## Database
 |  |
 | ------- |
@@ -66,4 +68,16 @@ A collection of LeetCode questions to ace the coding interview!
 | [0620-not-boring-movies](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0626-exchange-seats) |
 | [0627-swap-sex-of-employees](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0627-swap-sex-of-employees) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
