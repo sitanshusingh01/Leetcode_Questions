@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0627-swap-sex-of-employees](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0627-swap-sex-of-employees) |
 | [1045-customers-who-bought-all-products](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/1045-customers-who-bought-all-products) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1068-product-sales-analysis-i](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/1068-product-sales-analysis-i) |
 ## Tree
 |  |
 | ------- |
