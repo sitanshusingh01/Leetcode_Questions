@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1070-product-sales-analysis-iii](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/1070-product-sales-analysis-iii) |
 | [1075-project-employees-i](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/1075-project-employees-i) |
 | [1084-sales-analysis-iii](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/1084-sales-analysis-iii) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/1141-user-activity-for-the-past-30-days-i) |
 ## Tree
 |  |
 | ------- |
