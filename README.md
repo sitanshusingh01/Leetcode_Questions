@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0089-gray-code](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0096-unique-binary-search-trees) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Backtracking
 |  |
 | ------- |
