@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0063-unique-paths-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Matrix
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0096-unique-binary-search-trees) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -107,4 +109,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Hash Table
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Union-Find
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
