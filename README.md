@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0089-gray-code](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0096-unique-binary-search-trees) |
+| [0149-max-points-on-a-line](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0149-max-points-on-a-line) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Backtracking
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0063-unique-paths-ii) |
+| [0149-max-points-on-a-line](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0149-max-points-on-a-line) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Matrix
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0149-max-points-on-a-line) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
 |  |
@@ -160,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/2685-count-the-number-of-complete-components) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
