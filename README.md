@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0168-excel-sheet-column-title](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0166-fraction-to-recurring-decimal) |
+| [0202-happy-number](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0202-happy-number) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
 |  |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0202-happy-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
