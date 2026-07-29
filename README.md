@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0172-factorial-trailing-zeroes](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Backtracking
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0168-excel-sheet-column-title](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0171-excel-sheet-column-number) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0149-max-points-on-a-line](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0202-happy-number) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
 |  |
@@ -200,4 +203,9 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
