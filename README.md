@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0168-excel-sheet-column-title](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0171-excel-sheet-column-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0149-max-points-on-a-line](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0202-happy-number) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
@@ -175,11 +177,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Depth-First Search
@@ -205,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting Sort
 |  |
 | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics
