@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/1406-stone-game-iii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3731-find-missing-elements](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/3731-find-missing-elements) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0149-max-points-on-a-line](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0202-happy-number) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sitanshusingh01/Leetcode_Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
